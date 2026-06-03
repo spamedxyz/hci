@@ -1,2 +1,3 @@
-# hci
-hci lab
+# HCI Project
+
+My first Git commit.
